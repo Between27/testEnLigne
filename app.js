@@ -10,4 +10,4 @@ function Welcome ({DIO}) {
     </div>
 }
 
-reactd.render(<Welcome DIO = "ZA WARUDO"> STANDO POWER </Welcome>)
+reactd.render(<Welcome DIO = "You are"> STANDO POWER </Welcome>)
